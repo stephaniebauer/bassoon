@@ -26,7 +26,7 @@ export default {
 <style lang="sass">
   img
     width: 128px
-    height: 128px
+    aspect-ratio: 1 / 1
     cursor: pointer
 
   .riddleBackground
